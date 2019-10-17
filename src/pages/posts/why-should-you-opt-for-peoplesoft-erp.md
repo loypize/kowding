@@ -2,18 +2,14 @@
 title: Why Should You Opt for PeopleSoft ERP?
 subtitle: >-
   For any company to reach its zenith, Enterprise Resource Planning (ERP) is
-  crucial. It facilitates the smooth workflow between the departments, and even
-  between vendors and enterprises. When PeopleSoft entered the market, it was
-  undoubtedly the leader in offering  ERP solutions in HRMS. The legacy
-  continues even after Oracle’s acquisition of PeopleSoft in 2005.
+  crucial. It facilitates the smooth workflow between the departments
 date: 2019-10-17T02:32:30.119Z
 thumb_img_path: /images/test.jpg
 excerpt: >-
   The World Quality Summit is one of the world’s largest summit for Quality
   Assurance (QA) professionals from around the globe.  The summit will be
   organised globally to understand the forthcoming future in testing from
-  industry experts. This year, the summit will be held at Hyderabad, Chicago and
-  London.
+  industry experts. 
 template: post
 ---
 ![](/images/test.jpg)
