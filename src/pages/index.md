@@ -2,7 +2,7 @@
 title: Home
 sections:
   - component: HeroBlock
-    content: "'m a Developerr making the web an awesome place.\r\n\n\rI create awesome web sites and web applications. Hire me to build you a website, teach you to code or speak at your event."
+    content: "'m Jerome, a Developer making the web an awesome place.\r\n\n\rI create awesome web sites and web applications. Hire me to build you a website, teach you to code or speak at your event."
     section_id: hero
     title: Hi Welcome to The Kowd!
     type: heroblock
