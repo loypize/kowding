@@ -16,6 +16,8 @@ excerpt: >-
   London.
 template: post
 ---
+![](/images/test.jpg)
+
 The World Quality Summit 2019 is the World’s Largest Technology Summit that will be held in Hyderabad on this Feb 22nd.  Most of the renowned and thought leaders from the niche will be sharing their technical experience and expertise in the summit, which inspires and aspires the techie’s who are looking forward to driving their future in testing and also understand the propelling factors that are enhancing the niche of testing in near future eventually from the horse’s mouth.
 
 > Kastech, a leading software solution provider is one of the co-sponsors of this summit.
